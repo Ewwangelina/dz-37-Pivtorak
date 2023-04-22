@@ -62,4 +62,3 @@ getPost(postId).then(post => {
 showPost(post);
 });
 });
-
